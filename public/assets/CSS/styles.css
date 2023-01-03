@@ -9,6 +9,13 @@ body {
   display: none;
 }
 
+.navbar-brand {
+  font-size: 18px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
 .icons i {
   margin-left: 15px;
   margin-right: 15px;
