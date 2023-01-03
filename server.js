@@ -1,7 +1,7 @@
-// Dependencies
+// dependencies
 const express = require('express');
 
-// app use express
+// use express
 const app = express();
 
 // creating environment variable port
